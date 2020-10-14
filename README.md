@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Click to check out my [portfolio](https://cftgithub.github.io/ChiafongTsao/index.html){:target="_blank"}
+### Click to check out my [portfolio](https://cftgithub.github.io/ChiafongTsao/index.html)
