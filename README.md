@@ -19,4 +19,6 @@ I am a tech enthusiast with an extensive management background, passion for lear
 
 I recently received a Full-Stack Web Development certificate from the University of Utah and have advanced my skills in CSS, JavaScript, React, Node and Express. Please check out a few of my repos to see how I have applied these skills.
 
+By the way, I prefer working in a collaborative environment versus individually as a freelancer. Please contact me if you think I might be a good match for your team!
+
 ### Click to check out my [portfolio](https://cftgithub.github.io/ChiafongTsao/index.html)
