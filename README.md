@@ -22,3 +22,5 @@ I recently received a Full-Stack Web Development certificate from the University
 Learning to code is one of the most exciting thing I have done in my life. I am grateful I have the opportunity to transition my career to the tech industry. (Yes, I would love to have a full-time job working in a collaborative environment versus individually as a freelancer). I have a strong work ethic, excellent problem solving skills, and I am passionate and thirsty in gaining more knowledge so I can increase my contribution to the industry. Let's talk if you think I might be a good match for your team!
 
 ### Click to check out my [portfolio](https://cftgithub.github.io/ChiafongTsao/index.html)
+
+I would love any advise you may have in improving my code and what I can do to be successful in this field. Thanks in advance for your feedback.
