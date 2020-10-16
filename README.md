@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a tech enthusiast with an extensive management background, passion for learning, and experience in leading complex projects. 
+I am a tech enthusiast with an extensive management/leadership background, passion for learning, and experience in leading complex projects. 
 
-I recently received a Full-Stack Web Development certificate from the University of Utah and have advanced my skills in CSS, JavaScript, React, Node and Express. Please check out a few of my repos to see how I have applied these skills.
+I recently received a Full-Stack Web Development certificate from the University of Utah and advanced my skills in HTML, CSS, JavaScript, React, MongoDB, Node and Express. Please check out a few of my repos to see how I have applied these skills.
 
-By the way, I prefer working in a collaborative environment versus individually as a freelancer. Let's talk if you think I might be a good match for your team!
+Learning to code is one of the most exciting thing I have done in my life. I am grateful I have the opportunity to transition my career to the tech industry. (Yes, I would love to have a full-time job working in a collaborative environment versus individually as a freelancer). I have a strong work ethic, excellent problem solving skills, and I am passionate and thirsty in gaining more knowledge so I can increase my contribution to the industry. Let's talk if you think I might be a good match for your team!
 
 ### Click to check out my [portfolio](https://cftgithub.github.io/ChiafongTsao/index.html)
