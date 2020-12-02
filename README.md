@@ -23,6 +23,6 @@ Learning to code is one of the most exciting thing I have done in my life. I am 
 ### My resume is on GitHub Gist. [View Resume](https://gist.github.com/cftgithub/39bfc94ad1e54d752e3d04f841a08c31)
 ### Click to check out my [Portfolio](https://cftgithub.github.io/ChiafongTsao/index.html)
 
-I am currently learning GraphQL and are planning on using that knowledge to build a social media site. Send me an email if you are interested in collaborating with me on this project.
+I am currently taking Computer Science courses and learning JAVA. Let me know if you have an idea for a great project I can build with the new knowledge I'm acquiring.
 
 I would love any advise you may have in improving my code and what I can do to be successful in this field. Thanks in advance for your feedback.
