@@ -21,7 +21,7 @@ I recently received a Full-Stack Web Development Certificate from the University
 
 Learning to code is one of the most exciting thing I have done in my life. I am grateful I have the opportunity to transition my career to the tech industry. (Yes, I am currently looking for work and would love to have a full-time job working in a collaborative environment versus individually as a freelancer). I have a strong work ethic, excellent problem solving skills, and I am passionate and thirsty in gaining more knowledge so I can increase my contribution to the industry. Let's talk if you think I might be a good match for your team!
 ### My resume is on GitHub Gist. [View Resume](https://gist.github.com/cftgithub/39bfc94ad1e54d752e3d04f841a08c31)
-### Click to check out my [Portfolio](https://cftgithub.github.io/ChiafongTsao/index.html)
+### Click to check out my [Portfolio](https://cftgithub.github.io/ChiafongTsao-PortfolioSP/)
 
 I am currently taking Computer Science courses and learning JAVA. Let me know if you have an idea for a great project I can build with the new knowledge I'm acquiring.
 
