@@ -21,7 +21,7 @@ Learning to code is one of the most exciting thing I have done in my life and I 
 
 I recently received a Full-Stack Web Development Certificate from the University of Utah and advanced my skills in HTML, CSS, JavaScript, React, MongoDB, Node and Express. Please check out a few of my repos to see how I have applied these skills.
 
-Currently, I am taking a Computer Science course and collaborating on the [me50/cftgithub](https://github.com/me50/cftgithub) repository, learning C and Python, while searching for a Software Development position where I can work and grow with individuals who share my passion in the industry.
+Currently, I am taking a Computer Science course and collaborating on the me50/cftgithub repository, learning C and Python, while searching for a Software Development position where I can work and grow with individuals who share my passion in the industry.
 
 I have a strong work ethic, excellent problem solving skills, and I am passionate and thirsty in gaining more knowledge so I can increase my contribution to the industry.
 
